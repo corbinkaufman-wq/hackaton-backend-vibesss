@@ -1,8 +1,7 @@
 {
-  "equipo": "G00",
+  "equipo": "VIBESSS",
   "integrantes": [
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" }
+    { "nombre": "Walter Aquino", "codigo": "202410070" },
+    { "nombre": "Nombre Apellido", "codigo": "202510460" }
   ]
 }
